@@ -1,0 +1,6 @@
+class helloWorld2{
+  public static void main(String[] args){
+    System.out.println("File added to GIT to fetch from the local clone");
+    System.out.println("Comment added from local clone');
+  }
+}
